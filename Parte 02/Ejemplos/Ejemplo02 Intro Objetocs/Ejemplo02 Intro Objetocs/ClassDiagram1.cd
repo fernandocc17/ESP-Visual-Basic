@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejemplo02_Intro_Objetocs.Perro">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="Ejemplo02_Intro_Objetocs.Animal" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.062" Y="3.209" />
+        <Point X="3.062" Y="3.322" />
+        <Point X="3.198" Y="3.322" />
+        <Point X="3.198" Y="3.552" />
+        <Point X="3.104" Y="3.552" />
+        <Point X="3.104" Y="4.437" />
+        <Point X="2" Y="4.437" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Perro.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo02_Intro_Objetocs.Gato">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="Ejemplo02_Intro_Objetocs.Animal" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="3.209" />
+        <Point X="3.5" Y="4.057" />
+        <Point X="4.5" Y="4.057" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAQAgAAAIAAAAAAAAACAAEAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Gato.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo02_Intro_Objetocs.Animal">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAAAAAACAAAAAAAAAAAAAAACEAAIAgCAAAAA=</HashCode>
+      <FileName>Animal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,23 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\bin\Debug\Ejemplo03 formas modulo y estructura.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\bin\Debug\Ejemplo03 formas modulo y estructura.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\bin\Debug\Ejemplo03 formas modulo y estructura.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03_formas_modulo_y_estructura.Form1.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03_formas_modulo_y_estructura.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03 formas modulo y estructura.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03 formas modulo y estructura.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03 formas modulo y estructura.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03 formas modulo y estructura.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03 formas modulo y estructura.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03 formas modulo y estructura.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\bin\Debug\Ejemplo03 formas modulo y estructura.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\bin\Debug\Ejemplo03 formas modulo y estructura.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\bin\Debug\Ejemplo03 formas modulo y estructura.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03_formas_modulo_y_estructura.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03_formas_modulo_y_estructura.Form2.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\Ejemplo03_formas_modulo_y_estructura.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo03 formas modulo y estructura\Ejemplo03 formas modulo y estructura\obj\x86\Debug\GenerateResource.write.1.tlog

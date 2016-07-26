@@ -1,0 +1,29 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\bin\Debug\Ejemplo 03.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\bin\Debug\Ejemplo 03.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\bin\Debug\Ejemplo 03.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\Ejemplo_03.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\Ejemplo_03.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\Ejemplo 03.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\Ejemplo 03.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\Ejemplo 03.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 03\obj\Debug\Ejemplo 03.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\bin\Debug\Ejemplo 03.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\bin\Debug\Ejemplo 03.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\bin\Debug\Ejemplo 03.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\ResolveAssemblyReference.cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo_03.Form1.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo_03.Resources.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.vbproj.GenerateResource.Cache
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.exe
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.xml
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.pdb
+F:\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.exe
+F:\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.xml
+F:\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.pdb
+Z:\Progr Basico Sabatino\00Recursos Compartidos\01 Visual Basic\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.exe
+Z:\Progr Basico Sabatino\00Recursos Compartidos\01 Visual Basic\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.xml
+Z:\Progr Basico Sabatino\00Recursos Compartidos\01 Visual Basic\Ejemplos\Ejemplo03\Ejemplo 03\Ejemplo 03\obj\Debug\Ejemplo 03.pdb

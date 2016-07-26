@@ -1,0 +1,22 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\bin\Debug\Repaso03 Tablas.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\bin\Debug\Repaso03 Tablas.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\bin\Debug\Repaso03 Tablas.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\Repaso03_Tablas.Form1.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\Repaso03_Tablas.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\Repaso03 Tablas.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\Repaso03 Tablas.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso03 Tablas\obj\x86\Debug\Repaso03 Tablas.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\Repaso03 Tablas.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\Repaso03 Tablas.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\Repaso03 Tablas.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\bin\Debug\Repaso03 Tablas.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\bin\Debug\Repaso03 Tablas.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\bin\Debug\Repaso03 Tablas.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\Repaso03_Tablas.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\Repaso03_Tablas.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso03 Tablas\Repaso03 Tablas\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,16 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\bin\Debug\Ejemplo 07 arreglos.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\bin\Debug\Ejemplo 07 arreglos.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\bin\Debug\Ejemplo 07 arreglos.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\Ejemplo_07_arreglos.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\Ejemplo_07_arreglos.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.pdb
+E:\ya IT\Profesor\Proulex\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 07 arreglos\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.exe
+E:\ya IT\Profesor\Proulex\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 07 arreglos\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.xml
+E:\ya IT\Profesor\Proulex\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 07 arreglos\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.pdb
+F:\Ejemplo 07 arreglos\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.exe
+F:\Ejemplo 07 arreglos\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.xml
+F:\Ejemplo 07 arreglos\Ejemplo 07 arreglos\obj\Debug\Ejemplo 07 arreglos.pdb

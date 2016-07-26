@@ -1,0 +1,52 @@
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\ResolveAssemblyReference.cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form1.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form2.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Resources.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.vbproj.GenerateResource.Cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\ResolveAssemblyReference.cache
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form1.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form2.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Resources.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.vbproj.GenerateResource.Cache
+Z:\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\ResolveAssemblyReference.cache
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form1.resources
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form2.resources
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Resources.resources
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.exe
+F:\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.xml
+F:\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\bin\Debug\Ejemplo09 DateTimePicker y forms.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\ResolveAssemblyReference.cache
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form1.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Form2.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\Ejemplo09_DateTimePicker_y_forms.Resources.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y forms\Ejemplo09 DateTimePicker y forms\obj\Debug\GenerateResource-ResGen.write.1.tlog

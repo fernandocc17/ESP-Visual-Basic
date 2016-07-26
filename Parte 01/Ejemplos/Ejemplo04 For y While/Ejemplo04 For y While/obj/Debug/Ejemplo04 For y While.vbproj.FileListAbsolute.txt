@@ -1,0 +1,23 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\bin\Debug\Ejemplo04 For y While.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\bin\Debug\Ejemplo04 For y While.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\bin\Debug\Ejemplo04 For y While.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\Ejemplo04_For_y_While.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\Ejemplo04_For_y_While.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.pdb
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.exe
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.xml
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.pdb
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\bin\Debug\Ejemplo04 For y While.exe
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\bin\Debug\Ejemplo04 For y While.pdb
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\bin\Debug\Ejemplo04 For y While.xml
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04_For_y_While.Form1.resources
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04_For_y_While.Resources.resources
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo04\Ejemplo04 For y While\Ejemplo04 For y While\obj\Debug\Ejemplo04 For y While.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\bin\Debug\Ejemplo01 Cadenas.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\bin\Debug\Ejemplo01 Cadenas.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\bin\Debug\Ejemplo01 Cadenas.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\Ejemplo01_Cadenas.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\Ejemplo01_Cadenas.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\Ejemplo01 Cadenas.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\Ejemplo01 Cadenas.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo01 Cadenas\Ejemplo01 Cadenas\obj\x86\Debug\Ejemplo01 Cadenas.pdb

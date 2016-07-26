@@ -1,0 +1,32 @@
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\bin\Debug\Ejemplo 05 Calculadora Exception.exe
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\bin\Debug\Ejemplo 05 Calculadora Exception.pdb
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\bin\Debug\Ejemplo 05 Calculadora Exception.xml
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo_05_Calculadora_Exception.Form1.resources
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo_05_Calculadora_Exception.Resources.resources
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.vbproj.GenerateResource.Cache
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.exe
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.xml
+C:\Users\dsab\AppData\Local\Temporary Projects\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.pdb
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.exe
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.xml
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.pdb
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\bin\Debug\Ejemplo 05 Calculadora Exception.exe
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\bin\Debug\Ejemplo 05 Calculadora Exception.pdb
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\bin\Debug\Ejemplo 05 Calculadora Exception.xml
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo_05_Calculadora_Exception.Form1.resources
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo_05_Calculadora_Exception.Resources.resources
+Z:\Programacion Basica 02-Jul\Jonathan Gutierrez\Proyectos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.vbproj.GenerateResource.Cache
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.pdb
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.pdb
+E:\ya IT\Profesor\Proulex\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.exe
+E:\ya IT\Profesor\Proulex\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.xml
+E:\ya IT\Profesor\Proulex\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.pdb
+F:\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.exe
+F:\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.xml
+F:\Ejemplo 05 Calculadora Exception\Ejemplo 05 Calculadora Exception\obj\Debug\Ejemplo 05 Calculadora Exception.pdb

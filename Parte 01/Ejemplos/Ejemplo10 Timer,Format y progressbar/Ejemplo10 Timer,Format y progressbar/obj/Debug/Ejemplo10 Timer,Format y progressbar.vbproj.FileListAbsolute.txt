@@ -1,0 +1,43 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer,Format y progressbar.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer,Format y progressbar.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10_Timer_Format_y_progressbar.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10_Timer_Format_y_progressbar.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.exe
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.xml
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer,Format y progressbar.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer,Format y progressbar.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\ResolveAssemblyReference.cache
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10_Timer_Format_y_progressbar.Form1.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10_Timer_Format_y_progressbar.Resources.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.vbproj.GenerateResource.Cache
+Z:\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.exe
+Z:\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.xml
+Z:\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer,Format y progressbar.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\ResolveAssemblyReference.cache
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10_Timer_Format_y_progressbar.Form1.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10_Timer_Format_y_progressbar.Resources.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\ResGen.read.1.tlog
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\ResGen.write.1.tlog
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer Format y progressbar.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer Format y progressbar.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\bin\Debug\Ejemplo10 Timer Format y progressbar.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer Format y progressbar.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer Format y progressbar.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo10 Timer,Format y progressbar\Ejemplo10 Timer,Format y progressbar\obj\Debug\Ejemplo10 Timer Format y progressbar.pdb

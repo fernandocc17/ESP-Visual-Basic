@@ -1,0 +1,39 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08_Procedimientos_y_funciones.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08_Procedimientos_y_funciones.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\ResolveAssemblyReference.cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08_Procedimientos_y_funciones.Form1.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08_Procedimientos_y_funciones.Resources.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.vbproj.GenerateResource.Cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.exe
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.exe
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.xml
+Z:\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\bin\Debug\Ejemplo08 Procedimientos y funciones.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\ResolveAssemblyReference.cache
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08_Procedimientos_y_funciones.Form1.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08_Procedimientos_y_funciones.Resources.resources
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.vbproj.GenerateResource.Cache
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.pdb
+F:\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.exe
+F:\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.xml
+F:\Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones\obj\Debug\Ejemplo08 Procedimientos y funciones.pdb

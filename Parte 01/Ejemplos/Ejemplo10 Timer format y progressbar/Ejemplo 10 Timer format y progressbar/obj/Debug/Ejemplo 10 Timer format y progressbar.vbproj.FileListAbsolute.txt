@@ -1,0 +1,13 @@
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\bin\Debug\Ejemplo 10 Timer format y progressbar.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\bin\Debug\Ejemplo 10 Timer format y progressbar.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\bin\Debug\Ejemplo 10 Timer format y progressbar.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\ResolveAssemblyReference.cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo_10_Timer_format_y_progressbar.Form1.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo_10_Timer_format_y_progressbar.Resources.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.vbproj.GenerateResource.Cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.pdb
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.exe
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.xml
+Z:\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 10 Timer format y progressbar\Ejemplo 10 Timer format y progressbar\obj\Debug\Ejemplo 10 Timer format y progressbar.pdb

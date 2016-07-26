@@ -1,0 +1,34 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo_11_MenuStrip.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo_11_MenuStrip.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.pdb
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\ResolveAssemblyReference.cache
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo_11_MenuStrip.Form1.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo_11_MenuStrip.Resources.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.vbproj.GenerateResource.Cache
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo 11 MenuStrip.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\bin\Debug\Ejemplo 11 MenuStrip.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\ResolveAssemblyReference.cache
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo_11_MenuStrip.Form1.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\Ejemplo_11_MenuStrip.Resources.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\ResGen.read.1.tlog
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo11 MenuStrip\Ejemplo 11 MenuStrip\obj\Debug\ResGen.write.1.tlog

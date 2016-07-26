@@ -1,0 +1,22 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\bin\Debug\Ejemplo06 Tablas y tooltip.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\bin\Debug\Ejemplo06 Tablas y tooltip.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\bin\Debug\Ejemplo06 Tablas y tooltip.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06_Tablas_y_tooltip.Form1.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06_Tablas_y_tooltip.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06 Tablas y tooltip.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06 Tablas y tooltip.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06 Tablas y tooltip.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06 Tablas y tooltip.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06 Tablas y tooltip.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06 Tablas y tooltip.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\bin\Debug\Ejemplo06 Tablas y tooltip.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\bin\Debug\Ejemplo06 Tablas y tooltip.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\bin\Debug\Ejemplo06 Tablas y tooltip.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06_Tablas_y_tooltip.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\Ejemplo06_Tablas_y_tooltip.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo06 Tablas y tooltip\Ejemplo06 Tablas y tooltip\obj\x86\Debug\GenerateResource.write.1.tlog

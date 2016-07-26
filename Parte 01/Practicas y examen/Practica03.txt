@@ -1,0 +1,18 @@
+1) Crear un acceso seguro con clave ="mimamamemima"
+2)Agregar los botones de los numeros del 0 al 9
+3)Agregar los botones de las 4 operaciones aritmeticas basicas
+4)Todos los objetos de las formas tengan el nombre correcto
+5)Que la calculadora pueda hacer suma
+6)Que la calculadora pueda hacer resta
+7)Que la calculadora pueda hacer multiplicacion
+8)Que la calculadora pueda hacer division
+9)Que se puedan hacer las 4 operaciones aritmeticas con un
+resultado previo
+
+
+---------------Extras----------------------------
+10)Tooltip para cada objeto de las 2 formas
+11)Cuando se de enter en algun objeto sea como el click
+
+---------------Intercambiable--------------------
+11)Hacer una funcion que saque promedio de un numero especificado de notas

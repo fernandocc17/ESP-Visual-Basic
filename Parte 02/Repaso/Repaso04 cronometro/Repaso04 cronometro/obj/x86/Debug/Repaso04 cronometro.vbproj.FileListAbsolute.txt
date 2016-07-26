@@ -1,0 +1,11 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\bin\Debug\Repaso04 cronometro.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\bin\Debug\Repaso04 cronometro.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\bin\Debug\Repaso04 cronometro.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\Repaso04_cronometro.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\Repaso04_cronometro.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\Repaso04 cronometro.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\Repaso04 cronometro.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso04 cronometro\Repaso04 cronometro\obj\x86\Debug\Repaso04 cronometro.pdb

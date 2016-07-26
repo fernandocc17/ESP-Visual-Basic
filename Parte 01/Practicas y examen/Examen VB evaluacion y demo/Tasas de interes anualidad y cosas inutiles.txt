@@ -1,0 +1,27 @@
+Contado
+ Nada
+
+12 Meses
+
+Interes:5%
+Anualidad --
+Enganche 30%
+
+24 Meses
+
+Interes:8%
+Anualidad 10%
+Enganche 20%
+
+36 Meses
+
+Interes:10%
+Anualidad 5%
+Enganche 15%
+
+
+48
+
+Interes:13.5%
+Anualidad 2%
+Enganche 10%

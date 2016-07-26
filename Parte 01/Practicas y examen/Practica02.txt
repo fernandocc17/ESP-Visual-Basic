@@ -1,0 +1,28 @@
+1) Todos los objetos deben tener el nombre adecuado
+2)Nombre no puede estar vacio, de estar vacio, que salga un MsgBox diciendo que introduzca algo
+3)Debe estar seleccionado un radiobutton, sino que salga un MsgBox diciendo que introduzcaa algo
+4)En la fecha de nacimiento:
+	Los años deben ser de 1950 hasta 2020
+	Los meses deben estar escritos con Enero, Febrero,Marzo
+	Los dias deben ser acordes a los meses(Enero 31,
+					       Abril 30,
+					Febrero 29 si es 					bisiesto)
+
+5)El telefono solo puede ser numerico ,si no lo es que salga un MsgBox diciendo que solo puede ser numerico.
+
+6)Al darle click en Mostrar todos los datos llenados arriba deben pasar a las label que estan abajo con sus nombres
+
+7)Todos los objetos desde e incluyendo Telefono hacia arriba deben tener un tooltip que diga "Datos por llenar", los de abajo de telefono deben tener "Datos llenados"
+
+8)Al darle click a salir debe cerrarse la forma
+
+
+
+
+-------------------------Extras-------------------------------
+
+9)En base a la fecha de nacimiento que se muestre la edad del usuario
+
+10)Que al darle enter a cualquier objeto que se llene se ejecute como si le hubieramos dado click a mostrar
+
+11)Que diga el signo zodiacal del usuario

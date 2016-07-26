@@ -1,0 +1,15 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\bin\Debug\Ejemplo02 Intro a los controles comunes.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\bin\Debug\Ejemplo02 Intro a los controles comunes.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\bin\Debug\Ejemplo02 Intro a los controles comunes.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02_Intro_a_los_controles_comunes.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02_Intro_a_los_controles_comunes.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02_Intro_a_los_controles_comunes.Form2.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02_Intro_a_los_controles_comunes.Form3.resources
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo02 Intro a los controles comunes\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.exe
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo02 Intro a los controles comunes\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.xml
+Z:\dsab\Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo02 Intro a los controles comunes\Ejemplo02 Intro a los controles comunes\obj\Debug\Ejemplo02 Intro a los controles comunes.pdb

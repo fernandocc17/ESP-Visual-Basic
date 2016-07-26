@@ -1,0 +1,29 @@
+0)-------SIN VALOR-------------
+Hacer una BD con las tablas
+Usuario
+	Nombre
+	Contraseña
+	Tipo usuario (administrador y capturista)	
+Cliente
+	id_cliente
+	Nombre
+	Telefono
+NOTA: para la practica se debe usar herencia, polimorfismo, bases de datos, archivos y modulos.
+
+1) Hacer una forma para logearse donde se introduzca el nombre del usuario y la contraseña ( se debe ver asteriscos en vez de los caracteres)
+2) Cada vez que se intente logear ( sea exitoso o no) se debe escribir en un archivo que "X" usuario se intento logear.
+3)Cada vez que se inicie sesion se debe escribir en un archivo que el usuario X inicio sesion
+4)Cada vez que se termine la aplicacion se debe escribir en un archivo que el usuario "X" cerro la sesion
+5)Crear una forma para agregar empleados proporcionando los campos nombre y telefono
+	Si la persona que va a agregar el cliente es un administrador este se agregara a la base de datos.
+	Si la persona que va a agregar el cliente es un capturista , el cliente se agregara a un archivo llamado clientes.txt 
+6)Crear una forma para ver todos los clientes, se debe cargan los campos nombre y telefono a ListBox
+	Si la persona que lo solicita es un administrador, podra ver todos los clientes, tanto los de la base de datos como los del archivo.
+	Si la persona que lo solicita es un capturista solo podra ver los clientes del archivo.
+7)Crear una forma para dar de alta usuarios proporcionando:
+	Nombre
+	Contraseña (Campo donde no se pueda ver la contraseña y otro campo para comprobar).
+	Tipo de usuario
+Esta forma solo debe ser accesible para los administradores.
+8)Crear una forma para ver todos los usuarios cargando los campos nombre y tipo de usuario en listbox.
+9)Cada que se habra una forma se debe de mostrar un mensaje al usuario diciendo cuantas operaciones ha hecho(se considera operacion el insertar (usuario o cliente) y ver los usuarios o clientes existentes. 

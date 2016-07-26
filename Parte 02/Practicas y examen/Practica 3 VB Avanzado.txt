@@ -1,0 +1,10 @@
+1)Crear la clase alumno con los atributos 
+	Nombre
+	Edad
+	Telefono
+	Carrera
+	Promedio
+2)Crear una forma para dar de alta a los alumnos, segun su carrera ( archivo por carrera).
+3)Crear una forma donde se puedan ver todos los alumnos de una carrera seleccionada.
+4)Forma donde se pueda ver a todos los alumnos de todas las carreras
+5)Crear una variable de uso global que me permita saber cuantos archivos existen (cada vez que inicie el programa se debe de actualizar).

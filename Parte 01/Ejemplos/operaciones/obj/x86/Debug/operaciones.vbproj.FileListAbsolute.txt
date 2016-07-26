@@ -1,0 +1,14 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\bin\Debug\operaciones.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\bin\Debug\operaciones.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\bin\Debug\operaciones.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\operaciones.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\operaciones.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\operaciones.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\operaciones.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\operaciones\obj\x86\Debug\operaciones.pdb
+C:\Users\maestrod\documents\visual studio 2010\Projects\operaciones\obj\x86\Debug\operaciones.exe
+C:\Users\maestrod\documents\visual studio 2010\Projects\operaciones\obj\x86\Debug\operaciones.xml
+C:\Users\maestrod\documents\visual studio 2010\Projects\operaciones\obj\x86\Debug\operaciones.pdb

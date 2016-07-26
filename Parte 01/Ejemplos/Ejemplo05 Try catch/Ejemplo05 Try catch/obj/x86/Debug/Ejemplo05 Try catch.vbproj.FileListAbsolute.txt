@@ -1,0 +1,25 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\bin\Debug\Ejemplo05 Try catch.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\bin\Debug\Ejemplo05 Try catch.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\bin\Debug\Ejemplo05 Try catch.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05_Try_catch.Form1.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05_Try_catch.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\bin\Debug\Ejemplo05 Try catch.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\bin\Debug\Ejemplo05 Try catch.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\bin\Debug\Ejemplo05 Try catch.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05_Try_catch.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05_Try_catch.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo05 Try catch\Ejemplo05 Try catch\obj\x86\Debug\Ejemplo05 Try catch.pdb

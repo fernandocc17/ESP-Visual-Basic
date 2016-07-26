@@ -1,0 +1,15 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\bin\Debug\Ejemplo09 DateTimePicker y formas.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\bin\Debug\Ejemplo09 DateTimePicker y formas.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\bin\Debug\Ejemplo09 DateTimePicker y formas.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09_DateTimePicker_y_formas.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09_DateTimePicker_y_formas.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09 DateTimePicker y formas.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09 DateTimePicker y formas.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09 DateTimePicker y formas.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09_DateTimePicker_y_formas.Form2.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09 DateTimePicker y formas.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09 DateTimePicker y formas.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo09 DateTimePicker y formas\Ejemplo09 DateTimePicker y formas\obj\x86\Debug\Ejemplo09 DateTimePicker y formas.pdb

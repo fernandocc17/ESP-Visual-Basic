@@ -1,0 +1,11 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\bin\Debug\Ejemplo13 Sliders color.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\bin\Debug\Ejemplo13 Sliders color.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\bin\Debug\Ejemplo13 Sliders color.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\Ejemplo13_Sliders_color.Form1.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\Ejemplo13_Sliders_color.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\Ejemplo13 Sliders color.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\Ejemplo13 Sliders color.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Ejemplo13 Sliders color\obj\x86\Debug\Ejemplo13 Sliders color.pdb

@@ -1,0 +1,14 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\bin\Debug\Ejemplo07 bases de datos.exe.config
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\bin\Debug\vb_mysql.sdf
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\bin\Debug\Ejemplo07 bases de datos.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\bin\Debug\Ejemplo07 bases de datos.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\bin\Debug\Ejemplo07 bases de datos.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\Ejemplo07_bases_de_datos.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\Ejemplo07_bases_de_datos.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\Ejemplo07 bases de datos.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\Ejemplo07 bases de datos.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\Ejemplo07 bases de datos.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo07 bases de datos\Ejemplo07 bases de datos\obj\x86\Debug\Ejemplo07_bases_de_datos.Form2.resources

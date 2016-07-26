@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ejemplo08 Procedimientos y funciones", "Ejemplo08 Procedimientos y funciones\Ejemplo08 Procedimientos y funciones.vbproj", "{AFFD9F85-57DC-49B8-85B1-A47DD9B863EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFD9F85-57DC-49B8-85B1-A47DD9B863EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFD9F85-57DC-49B8-85B1-A47DD9B863EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFD9F85-57DC-49B8-85B1-A47DD9B863EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFD9F85-57DC-49B8-85B1-A47DD9B863EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

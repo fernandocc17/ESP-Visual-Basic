@@ -1,0 +1,16 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\bin\Debug\Ejemplo 12 TabControl.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\bin\Debug\Ejemplo 12 TabControl.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\bin\Debug\Ejemplo 12 TabControl.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\Ejemplo_12_TabControl.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\Ejemplo_12_TabControl.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.vbproj.GenerateResource.Cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.pdb
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 12 TabControl\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.exe
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 12 TabControl\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.xml
+Z:\dsab\programacion\01 Programacion Basica 02-Jul\01 Recursos Compartidos\1 Visual\Ejemplos\Ejemplo 12 TabControl\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo12 TabControl\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo12 TabControl\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Ejemplo12 TabControl\Ejemplo 12 TabControl\obj\Debug\Ejemplo 12 TabControl.pdb

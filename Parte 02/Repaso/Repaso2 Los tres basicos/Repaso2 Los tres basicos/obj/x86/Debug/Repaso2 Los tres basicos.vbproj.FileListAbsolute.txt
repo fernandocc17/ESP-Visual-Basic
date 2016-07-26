@@ -1,0 +1,22 @@
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\bin\Debug\Repaso2 Los tres basicos.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\bin\Debug\Repaso2 Los tres basicos.pdb
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\bin\Debug\Repaso2 Los tres basicos.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2_Los_tres_basicos.Form1.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2_Los_tres_basicos.Resources.resources
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2 Los tres basicos.exe
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2 Los tres basicos.xml
+C:\Users\maestroe\AppData\Local\Temporary Projects\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2 Los tres basicos.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2 Los tres basicos.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2 Los tres basicos.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2 Los tres basicos.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\bin\Debug\Repaso2 Los tres basicos.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\bin\Debug\Repaso2 Los tres basicos.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\bin\Debug\Repaso2 Los tres basicos.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2_Los_tres_basicos.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\Repaso2_Los_tres_basicos.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso2 Los tres basicos\Repaso2 Los tres basicos\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,11 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\bin\Debug\Repaso1 Reconocimiento.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\bin\Debug\Repaso1 Reconocimiento.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\bin\Debug\Repaso1 Reconocimiento.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\Repaso1 Reconocimiento.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\Repaso1 Reconocimiento.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Repaso1 Reconocimiento\Repaso1 Reconocimiento\obj\x86\Debug\Repaso1 Reconocimiento.pdb

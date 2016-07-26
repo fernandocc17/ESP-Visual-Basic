@@ -1,0 +1,22 @@
+Tipo de Motor
+==========
+   - 6 Cilindros: 20%+
+   - 8 Cilindros: 37%
+
+Transmision
+=========
+  - Automatica: 25%+
+  - Hibrida: 40%+
+
+Equipo
+======
+  - Aire: +8000
+  - Estereo: +10000
+  - Equipo electrico: +13500
+  - Interiores en piel: +25000
+
+Credito
+======
+  - 12: 30%
+  - 24: 45%
+  - 48: 60%

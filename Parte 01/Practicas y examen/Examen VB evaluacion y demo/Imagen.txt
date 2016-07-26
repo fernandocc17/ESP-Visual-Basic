@@ -1,0 +1,5 @@
+Imagen es el objeto picturebox/imagebox
+la propiedad image es la propiedad de la imagen como tal
+Image.FromFile carga la imagen que se le pase por el parametro de los parentesis
+
+ Imagen.Image = Image.FromFile(ventana.marca & "/1.jpg")

@@ -1,0 +1,31 @@
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\bin\Debug\holamundo.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\bin\Debug\holamundo.pdb
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\bin\Debug\holamundo.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.Form1.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.Resources.resources
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.exe
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.xml
+C:\Users\maestrod\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.pdb
+Z:\dsab\Progr Basico Sabatino\Alex Arambula\holamundo\obj\x86\Debug\holamundo.exe
+Z:\dsab\Progr Basico Sabatino\Alex Arambula\holamundo\obj\x86\Debug\holamundo.xml
+Z:\dsab\Progr Basico Sabatino\Alex Arambula\holamundo\obj\x86\Debug\holamundo.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\holamundo\obj\x86\Debug\holamundo.exe
+Z:\Progr Basico Sabatino\Alex Arambula\holamundo\obj\x86\Debug\holamundo.xml
+Z:\Progr Basico Sabatino\Alex Arambula\holamundo\obj\x86\Debug\holamundo.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\holamundo.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\holamundo.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\holamundo.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\bin\Debug\holamundo.exe
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\bin\Debug\holamundo.pdb
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\bin\Debug\holamundo.xml
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\holamundo.Form1.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\holamundo.Resources.resources
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Progr Basico Sabatino\Alex Arambula\Visual Basic\holamundo\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Progr Basico Sabatino\00Recursos Compartidos\01 Visual Basic\Ejemplos\holamundo\obj\x86\Debug\holamundo.exe
+Z:\Progr Basico Sabatino\00Recursos Compartidos\01 Visual Basic\Ejemplos\holamundo\obj\x86\Debug\holamundo.xml
+Z:\Progr Basico Sabatino\00Recursos Compartidos\01 Visual Basic\Ejemplos\holamundo\obj\x86\Debug\holamundo.pdb

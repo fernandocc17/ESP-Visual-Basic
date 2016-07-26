@@ -1,0 +1,14 @@
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\bin\Debug\Ejemplo02 Intro Objetocs.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\bin\Debug\Ejemplo02 Intro Objetocs.pdb
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\bin\Debug\Ejemplo02 Intro Objetocs.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02_Intro_Objetocs.Form1.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02_Intro_Objetocs.Resources.resources
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02 Intro Objetocs.exe
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02 Intro Objetocs.xml
+C:\Users\maestroe\documents\visual studio 2010\Projects\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02 Intro Objetocs.pdb
+Z:\Avanzado 11 de junio\Recursos compartidos\2 Visual Basic\Ejemplo\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02 Intro Objetocs.exe
+Z:\Avanzado 11 de junio\Recursos compartidos\2 Visual Basic\Ejemplo\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02 Intro Objetocs.xml
+Z:\Avanzado 11 de junio\Recursos compartidos\2 Visual Basic\Ejemplo\Ejemplo02 Intro Objetocs\Ejemplo02 Intro Objetocs\obj\x86\Debug\Ejemplo02 Intro Objetocs.pdb

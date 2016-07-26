@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ejemplo 11 MenuStrip", "Ejemplo 11 MenuStrip\Ejemplo 11 MenuStrip.vbproj", "{33A28518-ED1F-4DAC-96C0-34F1723A2839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A28518-ED1F-4DAC-96C0-34F1723A2839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A28518-ED1F-4DAC-96C0-34F1723A2839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A28518-ED1F-4DAC-96C0-34F1723A2839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A28518-ED1F-4DAC-96C0-34F1723A2839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
